@@ -1,5 +1,5 @@
 # docker-kick-start
-My understanding on Docker 
+An understanding on Docker 
 
 ## A Presentation 
 
